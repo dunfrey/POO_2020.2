@@ -3,20 +3,20 @@
 
 --- 
 
-### Horários de Atendimento
+### Apresentação
 
--  Carlos Olarte <carlos.olarte@gmail.com>
+-  Bruno Silva <bruno.silva@ect.ufrn.br>
 
 - Horários de atendimento (Discord):
- - segunda: 14-15
- - quarta:  14-15
+ - segunda: 15h-16h
+ - quarta:  15h-16h
 ---
 
 ### Objetivos
 
 Ao finalizar o curso os estudantes poderão:
  - Identificar os _conceitos fundamentais_ do paradigma de programação orientado a objetos
- - Utilizar apropriadamente as técnicas de _modelagem_ e _design_ OO
+ - Utilizar apropriadamente as técnicas de _modelagem_ e _programação_ OO
  - Desenvolver _aplicações_ utilizando o paradigma de POO
 
 ---
@@ -33,17 +33,29 @@ Ao finalizar o curso os estudantes poderão:
 
  - [Python 3.X](https://python.org/) (várias mudanças em relação à Python 2.X)
  - IDES:  
-  - [vim](https://www.vim.org/) (o melhor ;-) )
-  - [Emacs](https://www.gnu.org/software/emacs/)
   - [Sublime](https://www.sublimetext.com/)
   - [Atom](https://atom.io/) 
   - [Visual Code](https://code.visualstudio.com/)
   - [PyCharm](https://www.jetbrains.com/pt-br/pycharm)
+  - [vim](https://www.vim.org/)
+  - [Emacs](https://www.gnu.org/software/emacs/)
  - [Jupyter Notebooks](https://jupyter.org/)
 
 ---
 
-### Cronograma
+### Ferramentas
+
+ - Aulas no Google Meets
+  - Primeiros 2 horários: teoria
+  - Últimos 2 horários: prática
+  - Presença será feita durante as aulas e através da entrega dos exercícios
+ - Discord
+  - Discussões assíncronas
+  - Laboratório virtual
+   - Alunos podem se reunir em canais de áudio
+   - Perguntas podem ser feitas ao professor de forma privada
+
+### Ementa da Disciplina
 
 _Pilares fundamentais_:
 
@@ -56,27 +68,20 @@ _Conceitos de Programação_:
  - Erros e excepções 
  - Estruturas de dados (listas, dicionários, etc)
 
+Todas as aulas programadas estão cadastradas no SIGAA
+
 ---
-
-### Cronograma
-
-_Design e Projeto OO_
- - Diagramas de classe
- - Padrões de projeto
-
-_Muita prática_:
- - Técnicas, biblioteca padrão, etc
-
---- 
 
 ### Avaliação
 
 Avaliação continuada:
- - Todas as semanas teremos tarefas
+ - Atividades avaliativas passadas semanalmente
  - Unidades I e II:
   - Tarefas (70%)
   - "Prova" (30%):  mais uma tarefa (incluindo todos os conceitos)
- - Projeto (Unidade III) (30% tarefas + 70% projeto)
+ - Unidade III:
+  - Projeto (70%)
+  - Tarefas (30%)
 
 --- 
 
