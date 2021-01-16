@@ -15,4 +15,4 @@ Este diretório contém os slides das aulas do semestre 2020.2 (thanks <https://
  - Entrada e saída
  - Estruturas de Controle
 
-Jupyter notebook da aula [02-Python-Basico.ipynb](./02-python-basico/02-Python-Basico.ipynb)
+Anotações e exercícios da aula (Jupyter notebook) [02-Python-Basico.ipynb](./02-python-basico/02-Python-Basico.ipynb)
