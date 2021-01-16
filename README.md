@@ -1,9 +1,9 @@
 # Programação Orientada a Objetos
 
-Este repositório contem o material da disciplina de programação orientada a
-objetos ministrada na ECT/UFRN:
+Este repositório contém o material da disciplina de Programação Orientada a
+Objetos ministrada na ECT/UFRN:
 
- - Quadernos Jupyter com exercícios e explicações
+ - Jupyter notebooks com exercícios e explicações
  - Slides
  - Código Python de forma geral
 
