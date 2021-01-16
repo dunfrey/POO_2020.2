@@ -55,6 +55,8 @@ Ao finalizar o curso os estudantes poderão:
    - Alunos podem se reunir em canais de áudio
    - Perguntas podem ser feitas ao professor de forma privada
 
+---
+
 ### Ementa da Disciplina
 
 _Pilares fundamentais_:
