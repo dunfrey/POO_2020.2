@@ -10,7 +10,6 @@ O objetivo da aula é introduzir comandos básicos em Python:
  - Operadores e expressões
  - Entrada e saída
  - Controle de fluxo (`if`, `while`, `for`)
-
  ---
 
 ## A Linguagem Python
@@ -25,7 +24,6 @@ O objetivo da aula é introduzir comandos básicos em Python:
     - Aplicações científicas (NASA, Robot Operating System, etc.)
     - Bibliotecas de IA: Deep learning (PyTorch, TensorFlow)
 - _Crescimento de uso considerável na década atual_
-
  ---
 
 ## A Linguagem Python
@@ -37,8 +35,8 @@ Por que Python?
 - Código limpo
 - Código multiplataforma (Linux/Mac/Windows)
 - **Suporta o paradigma de programação orientada a objetos**
-
 ---
+
 ## A Linguagem Python
 
 - É uma linguagem interpretada
@@ -48,20 +46,20 @@ Por que Python?
     - Facilita a depuração de erros
     - Visualiza ajuda das funções/classes declaradas
 - **Importante**: confira se a versão do Python é a 3.X
-
 ---
+
 ## Terminal de comandos interativo
 <video data-autoplay src="./img/terminal.mp4"></video>
-
 ---
+
 ## Arquivos .py
 <video data-autoplay src="./img/exec.mp4"></video>
+---
 
---- 
 ## Jupyter Notebook
 <video data-autoplay src="./img/jupyter.mp4"></video>
+---
 
---- 
 ## Zen do python
 
 ```
@@ -77,6 +75,7 @@ Readability counts.
 If the implementation is hard to explain, it's a bad idea.
 ```
 ---
+
 ## Diferenças entre C++ e Python
 
  - Os tipos são determinados automaticamente
@@ -88,7 +87,8 @@ If the implementation is hard to explain, it's a bad idea.
  type(s) # str
 
  ```
---- 
+---
+
 ## Diferenças entre C++ e Python
 
  - Indentação obrigatória: 
@@ -97,9 +97,8 @@ If the implementation is hard to explain, it's a bad idea.
  def f(n):
    return n+1 # Código indentado 
  ```
+---
 
-
---- 
 ## Diferenças entre C++ e Python
 
  - `;` não é necessário
@@ -109,8 +108,8 @@ If the implementation is hard to explain, it's a bad idea.
  i +=1
  print(i)
  ```
+---
 
---- 
 ## Diferenças entre C++ e Python
 
  - Laços for
@@ -124,8 +123,8 @@ for(int i=0 ; i < n ; i++)
 for i in range(0,n): # até n-1
    print(i)
 ```
-
 ---
+
 ## Jupyter Notebook
 
 <div style="text-align:center">
