@@ -93,10 +93,10 @@ If the implementation is hard to explain, it's a bad idea.
 
  -  Indentação obrigatória: 
 
-```python
-def f(n):
-   return n+1 # Código indentado 
-```
+ ```python
+ def f(n):
+    return n+1 # Código indentado 
+ ```
 
 
 --- 
@@ -104,12 +104,11 @@ def f(n):
 
  -  `;` não é necessário
 
-```python
-i = 5
-i +=1
-print(i)
-```
-
+ ```python
+ i = 5
+ i +=1
+ print(i)
+ ```
 
 --- 
 ## Diferenças entre C++ e Python
@@ -130,6 +129,8 @@ for i in range(0,n): # até n-1
 
 ## Jupyter Notebook
 
-Roteiro com comandos Python e exercícios:
+ - Roteiro com comandos Python e exercícios:
 
+<div style="text-align:center">
 <a href="02-Python-Basico.ipynb">02-Python-Basico</a>
+</div>
