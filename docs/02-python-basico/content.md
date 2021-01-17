@@ -91,7 +91,7 @@ If the implementation is hard to explain, it's a bad idea.
 --- 
 ## Diferenças entre C++ e Python
 
- -  Indentação obrigatória: 
+ - Indentação obrigatória: 
 
  ```python
  def f(n):
@@ -102,7 +102,7 @@ If the implementation is hard to explain, it's a bad idea.
 --- 
 ## Diferenças entre C++ e Python
 
- -  `;` não é necessário
+ - `;` não é necessário
 
  ```python
  i = 5
@@ -113,7 +113,7 @@ If the implementation is hard to explain, it's a bad idea.
 --- 
 ## Diferenças entre C++ e Python
 
- -  Laços for
+ - Laços for
 
 ```cpp
 for(int i=0 ; i < n ; i++)
@@ -129,8 +129,7 @@ for i in range(0,n): # até n-1
 
 ## Jupyter Notebook
 
- - Roteiro com comandos Python e exercícios:
-
 <div style="text-align:center">
+Roteiro com comandos Python e exercícios:
 <a href="02-Python-Basico.ipynb">02-Python-Basico</a>
 </div>
