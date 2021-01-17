@@ -28,7 +28,7 @@ O objetivo da aula é introduzir comandos básicos em Python:
 
  ---
 
-## A Linguagem de Python
+## A Linguagem Python
 
 Por que Python?
 
@@ -90,7 +90,8 @@ If the implementation is hard to explain, it's a bad idea.
  ```
 --- 
 ## Diferenças entre C++ e Python
--  Indentação obrigatória: 
+
+ -  Indentação obrigatória: 
 
 ```python
 def f(n):
@@ -100,7 +101,8 @@ def f(n):
 
 --- 
 ## Diferenças entre C++ e Python
--  `;` não é necessário
+
+ -  `;` não é necessário
 
 ```python
 i = 5
@@ -111,7 +113,8 @@ print(i)
 
 --- 
 ## Diferenças entre C++ e Python
--  Laços for
+
+ -  Laços for
 
 ```cpp
 for(int i=0 ; i < n ; i++)
@@ -121,9 +124,12 @@ for(int i=0 ; i < n ; i++)
 ```python
 for i in range(0,n): # até n-1
    print(i)
+```
 
 ---
 
 ## Jupyter Notebook
+
+Roteiro com comandos Python e exercícios:
 
 <a href="02-Python-Basico.ipynb">02-Python-Basico</a>
