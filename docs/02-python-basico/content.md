@@ -58,7 +58,6 @@ Por que Python?
     2. Atualizar pip: ```pip3 install --upgrade pip```
     3. Instalar Jupyter Notebook via pip: ```pip3 install jupyter```
     ```
-
 ---
 
 ## Terminal de comandos interativo
