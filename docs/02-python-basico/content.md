@@ -95,7 +95,7 @@ If the implementation is hard to explain, it's a bad idea.
 
  ```python
  def f(n):
-    return n+1 # Código indentado 
+   return n+1 # Código indentado 
  ```
 
 
@@ -126,10 +126,9 @@ for i in range(0,n): # até n-1
 ```
 
 ---
-
 ## Jupyter Notebook
 
 <div style="text-align:center">
-Roteiro com comandos Python e exercícios:
+Roteiro com comandos Python e exercícios:<br>
 <a href="02-Python-Basico.ipynb">02-Python-Basico</a>
 </div>
