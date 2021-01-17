@@ -45,7 +45,20 @@ Por que Python?
     - Agiliza a programação
     - Facilita a depuração de erros
     - Visualiza ajuda das funções/classes declaradas
-- **Importante**: confira se a versão do Python é a 3.X
+---
+
+## A Linguagem Python
+
+- Instalação (Windows):
+    1. Baixar a distribuição [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2020.11-Windows-x86.exe) para Python
+    2. Instalar
+    3. Executar terminal Python
+- Instalação (Linux):
+    1. Instalar pip: ```sudo apt-get install python3-pip```
+    2. Atualizar pip: ```pip3 install --upgrade pip```
+    3. Instalar Jupyter Notebook via pip: ```pip3 install jupyter```
+    ```
+
 ---
 
 ## Terminal de comandos interativo
