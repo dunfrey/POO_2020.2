@@ -16,3 +16,19 @@ Este diretório contém os slides das aulas do semestre 2020.2 (thanks <https://
  - Estruturas de Controle
 
 Anotações e exercícios da aula (Jupyter notebook) [02-Python-Basico.ipynb](./02-python-basico/02-Python-Basico.ipynb)
+
+## 03 [Classes, objetos e abstração](./03-classes-objetos/)
+ - Classes, atributos e métodos
+ - Objetos
+ - Classes em Python
+ - Pilar de POO 1: abstração
+
+Anotações e exercícios da aula (Jupyter notebook) [03-Classes-Objetos.ipynb](./03-classes-objetos/03-Classes-Objetos.ipynb)
+
+## 04 [Encapsulamento](./04-encapsulamento/)
+ - Encapsulamento
+ - Modificadores de acesso
+ - Setters e getters
+ - Decorador `@property`
+
+Anotações e exercícios da aula (Jupyter notebook) [04-Encapsulamento.ipynb](./04-encapsulamento/04-Encapsulamento.ipynb)
