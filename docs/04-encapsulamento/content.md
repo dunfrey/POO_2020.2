@@ -44,7 +44,8 @@ Nesta aula aprenderemos:
 
 - POO é comumente utilizada no desenvolvimento de bibliotecas
 - Os usuários da classe só podem acessar os membros e métodos  *públicos* da classe.
-- O usuário da classe é quem utiliza uma biblioteca POO
+    - **Importante**: usuário do sistema não é o usuário da classe
+    - O usuário da classe é quem utiliza o código POO em seu código
 - Ao chamar um método, podemos ignorar como ele foi implementado
 - Facilita a manutenção e reaproveitamento do código
 ---
@@ -121,7 +122,6 @@ Os usuários da classe `Estacionamento` deveriam __modificar diretamente__  o at
 - Busca garantir a *consistência* (do estado) dos objetos
 
 > As classes devem expor o mínimo necessário para serem utilizadas.
-
 ---
 
 ### Encapsulamento em Python
