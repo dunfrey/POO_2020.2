@@ -28,7 +28,8 @@ Anotações e exercícios da aula (Jupyter notebook) [03-Classes-Objetos.ipynb](
 ## 04 [Encapsulamento](./04-encapsulamento/)
  - Encapsulamento
  - Modificadores de acesso
- - Setters e getters
- - Decorador `@property`
+ - Pilar de POO 2: encapsulamento
+    - Setters e getters
+    - Decorador `@property`
 
 Anotações e exercícios da aula (Jupyter notebook) [04-Encapsulamento.ipynb](./04-encapsulamento/04-Encapsulamento.ipynb)
