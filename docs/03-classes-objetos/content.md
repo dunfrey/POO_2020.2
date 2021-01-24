@@ -1,7 +1,7 @@
-## Classes e Objetos
-### Abstração 
+### Programação Orientada a Objetos
+#### Classes, Objetos e Abstração
+---
 
---- 
 ### Objetivos
 
 Nesta aula aprenderemos a:

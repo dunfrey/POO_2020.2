@@ -1,5 +1,5 @@
-## Classes e Objetos
-### Encapsulamento 
+### Programação Orientada a Objetos
+#### Encapsulamento
 ---
 
 ### Revisão 
