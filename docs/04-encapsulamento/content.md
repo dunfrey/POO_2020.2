@@ -93,20 +93,6 @@ Nesse sistema podemos identificar:
 - _Métodos_: Os carros podem _entrar_ e _sair_. Além disso, podemos consultar o número de vagas disponíveis.
 --- 
 
-<!--
-### Exemplo: Estacionamento
-#### Notação UML: Diagrama de Classes
-
-<img src="img/uml.png" width=250 />
-
- - `-` denota um membro de classe _privado_.
- - `+` denota um membro _público_
- - `#` denota um membro  _protegido_
-
-<https://www.draw.io/>
---- 
--->
-
 ### Exemplo: Estacionamento
 Os usuários da classe `Estacionamento` deveriam __modificar diretamente__  o atributo `vagas`? 
 
