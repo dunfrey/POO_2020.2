@@ -33,3 +33,10 @@ Anotações e exercícios da aula (Jupyter notebook) [03-Classes-Objetos.ipynb](
     - Decorador `@property`
 
 Anotações e exercícios da aula (Jupyter notebook) [04-Encapsulamento.ipynb](./04-encapsulamento/04-Encapsulamento.ipynb)
+
+## 05 [Estruturas de Dados Python](./05-Biblioteca-padrao)
+ - Listas
+ - Tuplas
+ - Dicionários
+
+Anotações e exercícios da aula (Jupyter notebook) [05-Biblioteca-Padrao.ipynb](./05-Biblioteca-padrao/05-Biblioteca-Padrao.ipynb)
