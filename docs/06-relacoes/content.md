@@ -87,7 +87,7 @@ Objetivos desta aula:
 ---
 
 ### Relacionamentos de Associação 
-<img src="./img/assoc.png" width="450"/>
+<img src="./img/multiplicidade.png" width="450"/>
 
 - Um objeto tipo A está ligado com zero ou vários objetos tipo B
 - Um objeto tipo B está ligado com um objeto tipo A
@@ -104,7 +104,7 @@ Objetivos desta aula:
 ### Relacionamentos de Associação
 #### Exemplo
 
-Considere um banco: cada conta bancaria está relacionada com uma pessoa (o
+Um banco, no qual cada conta bancaria está relacionada com uma pessoa (o
 titular da conta):
 
 <img src="./img/pessoa_X_conta.png" width=400/>
@@ -131,8 +131,9 @@ juntamente com linha conectando as classes
 ---
 
 ### Relacionamentos de Agregração
+#### Exemplo
 
-Considere um carro que possui 1 motor e 4 rodas
+Um carro que possui 1 motor e 4 rodas
 
 <img src="./img/carro_X_rodas_X_motor.png" width=500 />
 ---
@@ -166,6 +167,14 @@ de existir
 - A existência de B não faz sentido se A não existir
 - Notação em diagrama de classes: diamante preenchido na classe que representa o todo
 juntamente com linha conectando as classes
+---
+
+### Relacionamentos de Composição
+#### Exemplo
+
+Prédio com várias salas
+
+<img src="./img/predio_X_sala.png" width=500 />
 ---
 
 ### Resumindo
