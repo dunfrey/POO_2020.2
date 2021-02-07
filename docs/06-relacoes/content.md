@@ -196,7 +196,7 @@ existam
 deixam de existir
 ---
 
-## Relações entre Objetos e Abstração
+### Relações entre Objetos e Abstração
 - A escolha de uma forma de associação específica
   está atrelada à abstração empregada no domínio
   do problema
