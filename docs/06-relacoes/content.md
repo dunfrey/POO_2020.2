@@ -110,7 +110,7 @@ titular da conta):
 <img src="./img/pessoa_X_conta.png" width=400/>
 ---
 
-### Relacionamentos de Agregração
+### Relacionamentos de Agregação
 
 - Representa uma relação _todo-parte_
 - __As partes podem existir sem o todo__
@@ -120,7 +120,7 @@ titular da conta):
  - Considere a relação entre um Computador,  o Teclado, a Tela
 ---
 
-### Relacionamentos de Agregração
+### Relacionamentos de Agregação
 
 <img src="./img/agregacao.png" />
 
@@ -130,7 +130,7 @@ titular da conta):
 juntamente com linha conectando as classes
 ---
 
-### Relacionamentos de Agregração
+### Relacionamentos de Agregação
 #### Exemplo
 
 Um carro que possui 1 motor e 4 rodas
@@ -138,7 +138,7 @@ Um carro que possui 1 motor e 4 rodas
 <img src="./img/carro_X_rodas_X_motor.png" width=500 />
 ---
 
-### Relacionamentos de Agregração
+### Relacionamentos de Agregação
 
 - Objetos do tipo Motor e Roda são instanciados
 - Estas instâncias são associadas a um objeto do tipo Carro no inicializador
@@ -182,7 +182,7 @@ Prédio com várias salas
 - Modela uma relação genérica entre duas classes
 - Nenhum objeto é considerado dono/proprietário do outro objeto
 
-#### Agregração
+#### Agregação
 - Modela uma relação do tipo *tem um* fraca, ou seja, uma classe A é formada por
 objetos de outra classe B
 - Objetos da classe B podem existir sem que objetos da classe proprietária A
