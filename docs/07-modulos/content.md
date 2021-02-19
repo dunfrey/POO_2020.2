@@ -56,7 +56,7 @@ print(sqrt(16))
   definições `e` e `sqrt`
 ---
 
-### Biblioteca Padrão
+### Informações Sobre Módulos
 
 ```
 import math
