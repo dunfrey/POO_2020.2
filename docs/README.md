@@ -53,4 +53,6 @@ Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-re
 ## [07 - 22/02 - Módulos em Python](./07-modulos)
  - Módulos em Python
 
+Arquivos da aula: [alo.py](./07-modulos/alo.py) e [test.py](./07-modulos/test.py)
+
 **Prova - Unidade 1:** a ser disponibilizada em breve.
