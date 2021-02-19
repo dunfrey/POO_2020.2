@@ -49,3 +49,8 @@ Anotações e exercícios da aula (Jupyter notebook) [05-Biblioteca-Padrao.ipynb
     - Composição
 
 Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-relacoes/06-Relacoes.ipynb)
+
+## [07 - 22/02 - Módulos em Python](./07-modulos)
+ - Módulos em Python
+
+**Prova - Unidade 1:** a ser disponibilizada em breve.
