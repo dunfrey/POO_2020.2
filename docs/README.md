@@ -55,4 +55,4 @@ Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-re
 
 Arquivos da aula: [alo.py](./07-modulos/alo.py) e [test.py](./07-modulos/test.py)
 
-**Prova - Unidade 1:** a ser disponibilizada em breve.
+[**Prova - Unidade 1**](./07-modulos/poo_2020.2_p1.ipynb)
