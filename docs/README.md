@@ -56,3 +56,9 @@ Anotações e exercícios da aula (Jupyter notebook) [06-Relacoes.ipynb](./06-re
 Arquivos da aula: [alo.py](./07-modulos/alo.py) e [test.py](./07-modulos/test.py)
 
 [**Prova - Unidade 1**](./07-modulos/poo_2020.2_p1.ipynb)
+
+## [08 - 01/03 - Métodos/Atributos de classe e Herança](./08-heranca)
+ - Métodos e atributos de classe
+ - Pilar de POO 3: Herança
+
+<!-- Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-heranca/08-Heranca.ipynb)-->
