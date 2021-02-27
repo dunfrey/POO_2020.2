@@ -22,15 +22,8 @@ Parte II - apresentar o mecanismo de herança:
 - Por exemplo:
   - Como podemos armazenar a quantidade de instâncias criadas de uma classe?
   - Observe que não faz sentido a quantidade de instâncias de uma classe
-    ser atributo desta classe
----
-
-### Atributos e Métodos de Classe
-
-Notação UML:
-![Herança](./img/classe_pessoa_static.png)
-
-Texto sublinhado indica métodos e atributos estáticos (de classe)
+    ser atributo de cada objeto desta classe (como cada objeto pode armazenar
+    esta informação?)
 ---
 
 ### Atributos e Métodos de Instância vs. Atributos e Métodos de Classe
@@ -42,6 +35,34 @@ Texto sublinhado indica métodos e atributos estáticos (de classe)
   a um objeto específico daquela classe
   - Também chamados de dados *static* ou *atributos estáticos* e *métodos estáticos*
   - Não precisam de uma instância da classe para serem utilizados
+---
+
+### Atributos e Métodos de Classe
+
+<img src="./img/classe_pessoa_static.png" width=500 />
+
+Notação UML: texto sublinhado indica métodos e atributos estáticos (de classe)
+---
+
+### Atributos e Métodos de Classe
+
+Como é em Python (mais detalhes no notebook):
+
+```python
+class A:
+
+    _atributo_de_classe1 = ...
+    _atributo_de_classe2 = ...
+    
+    def __init__(self, ...):
+      self._atributo_de_instancia1 = ...
+      self._atributo_de_instancia2 = ...
+      self._atributo_de_instancia3 = ...
+
+    def metodo_de_classe(): # não tem self
+      ...
+
+```
 ---
 
 ### Os Quatro Pilares de POO
