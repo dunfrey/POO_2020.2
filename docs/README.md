@@ -61,4 +61,4 @@ Arquivos da aula: [alo.py](./07-modulos/alo.py) e [test.py](./07-modulos/test.py
  - Métodos e atributos de classe
  - Pilar de POO 3: Herança
 
-<!-- Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-heranca/08-Heranca.ipynb)-->
+Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-heranca/08-Heranca.ipynb)
