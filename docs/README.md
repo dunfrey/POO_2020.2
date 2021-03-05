@@ -62,3 +62,9 @@ Arquivos da aula: [alo.py](./07-modulos/alo.py) e [test.py](./07-modulos/test.py
  - Pilar de POO 3: Herança
 
 Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-heranca/08-Heranca.ipynb)
+
+## [09 - 08/03 - Classes abstratas](./09-classes-abstratas)
+ - Classes abstratas
+ - Métodos abstratos
+
+Anotações e exercícios da aula (Jupyter notebook) [09-Classes-Abstratas.ipynb](./09-classes-abstratas/09-Classes-Abstratas.ipynb)
