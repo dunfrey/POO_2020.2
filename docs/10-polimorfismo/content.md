@@ -216,5 +216,5 @@ atributos/métodos do que se ele é de uma determinada classe
 ---
 
 ### Mais exemplos
-[10-polimorfismo](10-polimorfismo.ipynb)
+[10-polimorfismo](10-Polimorfismo.ipynb)
 ---
