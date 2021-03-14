@@ -68,3 +68,9 @@ Anotações e exercícios da aula (Jupyter notebook) [08-Heranca.ipynb](./08-her
  - Métodos abstratos
 
 Anotações e exercícios da aula (Jupyter notebook) [09-Classes-Abstratas.ipynb](./09-classes-abstratas/09-Classes-Abstratas.ipynb)
+
+## [10 - 15/03 - Polimorfismo](./10-polimorfismo)
+ - Pilar de POO 4: Polimorfismo
+ - *Duck typing*
+
+Anotações e exercícios da aula (Jupyter notebook) [10-Polimorfismo.ipynb](./10-polimorfismo/10-Polimorfismo.ipynb)
